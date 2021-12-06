@@ -49,7 +49,7 @@ Docker: `$ docker run -it --gpus all --name d3rlpy takuseno/d3rlpy:latest bash`
 ![img.png](CQL_analysis.png)
 
 **CQL Plots**
-![img.png](CQL_plots.png)
+![img.png](CQL_plots_edit.png)
 
 **FQE Metrics**
 ![img.png](FQE_analysis.png)
